@@ -12,3 +12,14 @@ workshop:
     decision: July 30, 2023
     camera_ready: August 15, 2023
     workshop: September 11-15, 2023 (TBD)
+  organizers:
+    - name: Simone
+      surname: Palazzo
+      affiliation: University of Catania
+      email: simone.palazzo@unict.it
+      pic: img/simone.jpg
+    - name: Giovanni
+      surname: Bellitto
+      affiliation: University of Catania
+      email: giovanni.bellitto@phd.unict.it
+      pic: img/giovanni.jpg
