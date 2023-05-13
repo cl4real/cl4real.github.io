@@ -2,122 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Call for papers
 
-[Link to another page](./another-page.html).
+Current supervised machine learning approaches have shown extraordinary
+capabilities in solving complex tasks, but the resulting models still lack the typical
+human skill of being able to sequentially learn and remember how to perform
+multiple tasks, or to deal with changing data distributions. Continual learning
+approaches aim at tackling these limitations, by devising techniques that allow
+models to retain or refresh the knowledge of previously-learned tasks, thus
+preventing "catastrophic forgetting".
 
-There should be whitespace between paragraphs.
+This family of approaches has recently attracted a lot of attention, but experimental
+evaluations have been mostly limited to constrained and artificial scenarios (e.g.,
+presence of hard boundaries between tasks; assumption that classes cannot
+reappear in later tasks, lack of correlation between consecutive tasks, etc.). This can
+undermine the applicability of continual learning to real-world problems: for example,
+robotics would benefit from autonomous agents that are able to adapt to new terrains
+while still being able to navigate on the ones they already know; in medicine, privacy
+concerns may limit the availability of historical data, and domain shifts (e.g., imagery
+acquired by new equipment or disease progress) would require that models be able
+to process both data from the old distribution, now unavailable for training, and the
+new one.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+To tackle the challenges posed by such settings, common pitfalls and possible
+amendments of the classical scenarios have to be investigated in the next few years.
+Therefore, this workshop aims to promote and attract research on less studied
+aspects of continual learning, from new benchmarks to evaluation protocols, thus
+integrating the current methodological research efforts with a more practical and
+application-oriented perspective.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+The workshop aims to attract novel and original contributions exploring the
+intersection of continual learning and real-world applications. Expected submissions
+should cover, but are not limited to, the following topics:
+* investigations and proposals of metrics to better qualify the performance of
+continual learning approaches in the context of realistic problems;
+* novel continual learning benchmarks that go beyond the classical settings,
+focusing on one or more key aspects that characterize applications;
+* case studies of deployment and integration of continual learning approaches
+to real-world problems;
+* methodological contributions that focus on key aspects of realistic
+applications.
