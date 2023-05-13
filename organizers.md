@@ -4,6 +4,7 @@ layout: default
 
 # Organizers
 
+<p>
 <a href="#">
 <div class="item">
     <img class="headshot" src="img/simone.jpg"/>
@@ -32,6 +33,7 @@ layout: default
     <span class="affiliation">University of Pisa</span>
 </div>
 </a>
+</p>
 
 # Program Committee
 
