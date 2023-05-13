@@ -6,6 +6,32 @@
 @media screen and (min-width: 64em)
 {
 .project-name {
-  font-size: 2.75rem;
+    font-size: 2.75rem;
 }
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 110px;
+}
+.headshot {
+    width: 85px;
+    height: 85px;
+    background-color: grey;
+    border-radius: 50%;
+}
+.name {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+    color:#966;
+}
+.affiliation {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    display: block;
+    font-size:14px;
+    font-weight: 300;
 }
