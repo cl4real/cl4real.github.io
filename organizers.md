@@ -5,7 +5,7 @@ layout: default
 # Organizers
 
 <p>
-<a href="#">
+<a href="mailto:simone.palazzo@unict.it">
 <div class="item">
     <img class="headshot" src="img/simone.jpg"/>
     <span class="name">Simone <br>Palazzo</span>
@@ -57,4 +57,4 @@ To be determined.
 
 # Contact
 
-If you need any additional information, please [write us an email](mailto:simone.palazzo@unict.it).
+Click on your favorite organizer to contact us for any additional information!
