@@ -5,34 +5,15 @@ layout: default
 # Organizers
 
 <p>
-<a href="mailto:simone.palazzo@unict.it">
+{% for person in site.workshop.organizers %}
+<a href="mailto:{{ person.email }}">
 <div class="item">
-    <img class="headshot" src="img/simone.jpg"/>
-    <span class="name">Simone <br>Palazzo</span>
-    <span class="affiliation">University of Catania</span>
+    <img class="headshot" src="{{ person.pic }}"/>
+    <span class="name">{{ person.name }}<br>{{ person.surname }}</span>
+    <span class="affiliation">{{ person.affiliation }}</span>
 </div>
 </a>
-<a href="#">
-<div class="item">
-    <img class="headshot" src="img/giovanni.jpg"/>
-    <span class="name">Giovanni <br>Bellitto</span>
-    <span class="affiliation">University of Catania</span>
-</div>
-</a>
-<a href="#">
-<div class="item">
-    <img class="headshot" src="img/pic.jpg"/>
-    <span class="name">Lorenzo<br>Bonicelli</span>
-    <span class="affiliation">University of Modena and Reggio Emilia</span>
-</div>
-</a>
-<a href="#">
-<div class="item">
-    <img class="headshot" src="img/vincenzo.jpg"/>
-    <span class="name">Vincenzo <br>Lomonaco</span>
-    <span class="affiliation">University of Pisa</span>
-</div>
-</a>
+{% endfor %}
 </p>
 
 # Program Committee
