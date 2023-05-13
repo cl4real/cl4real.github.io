@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body {
-    color: blue;
+@media screen and (min-width: 64em)
+{
+.project-name {
+  font-size: 3.25rem;
+}
 }
