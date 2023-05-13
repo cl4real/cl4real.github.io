@@ -3,7 +3,12 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-workshop: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
-workshop_short: CL4REAL
-year: 2023
-conference: ICIAP
+workshop:
+  - name: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
+  - short: CL4REAL
+  - host: ICIAP
+  - dates:
+    - submission: June 30, 2023
+    - decision: July 30, 2023
+    - camera_ready: August 15, 2023
+    - workshop: September 11-15, 2023 (TBD)
