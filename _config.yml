@@ -23,3 +23,13 @@ workshop:
       affiliation: University of Catania
       email: giovanni.bellitto@phd.unict.it
       pic: img/giovanni.jpg
+    - name: Lorenzo
+      surname: Bonicelli
+      affiliation: University of Modena and Reggio Emilia
+      email: lorenzo.bonicelli@unimore.it
+      pic: img/pic.jpg
+    - name: Vincenzo
+      surname: Lo Monaco
+      affiliation: University of Pisa
+      email: vincenzo.lomonaco@unipi.it
+      pic: img/vincenzo.jpg
