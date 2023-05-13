@@ -42,3 +42,8 @@ focusing on one or more key aspects that characterize applications;
 to real-world problems;
 * methodological contributions that focus on key aspects of realistic
 applications.
+
+## Workshop Proceedings
+
+Workshop proceedings will
+be published by Springer LNCS.
