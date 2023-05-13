@@ -3,3 +3,6 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+workshop: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
+workshop_short: CL4REAL
+conference: ICIAP 2023
