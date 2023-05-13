@@ -1,3 +1,8 @@
 ---
 ---
-@import 'jekyll-theme-cayman';
+
+@import "{{ site.theme }}";
+
+body {
+    color: blue;
+}
