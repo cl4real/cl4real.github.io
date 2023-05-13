@@ -4,26 +4,11 @@ layout: default
 
 # Organizers
 
-<p>
 <a href="#">
 <div class="item">
     <img class="headshot" src="img/simone.jpg"/>
     <span class="name">Simone <br>Palazzo</span>
     <span class="affiliation">University of Catania</span>
-</div>
-</a>
-<a href="#">
-<div class="item">
-    <img class="headshot" src="img/angelo.jpg"/>
-    <span class="name">Angelo <br>Porrello</span>
-    <span class="affiliation">University of Modena and Reggio Emilia</span>
-</div>
-</a>
-<a href="#">
-<div class="item">
-    <img class="headshot" src="img/matteo.jpg"/>
-    <span class="name">Matteo <br>Boschini</span>
-    <span class="affiliation">University of Modena and Reggio Emilia</span>
 </div>
 </a>
 <a href="#">
@@ -35,12 +20,18 @@ layout: default
 </a>
 <a href="#">
 <div class="item">
+    <img class="headshot" src="img/pic.jpg"/>
+    <span class="name">Lorenzo<br>Bonicelli</span>
+    <span class="affiliation">University of Modena and Reggio Emilia</span>
+</div>
+</a>
+<a href="#">
+<div class="item">
     <img class="headshot" src="img/vincenzo.jpg"/>
     <span class="name">Vincenzo <br>Lomonaco</span>
     <span class="affiliation">University of Pisa</span>
 </div>
 </a>
-</p>
 
 # Program Committee
 
