@@ -34,11 +34,11 @@ workshop:
       email: vincenzo.lomonaco@unipi.it
       pic: img/vincenzo.jpg
   pc:
-    - name: Concetto Spampinato
-      affiliation: University of Catania
     - name: Simone Calderara
       affiliation: University of Modena and Reggio Emilia
     - name: Umberto Michieli
       affiliation: Samsung Research
+    - name: Concetto Spampinato
+      affiliation: University of Catania
     - name: Konstantinos Tserpes
       affiliation: Harokopio University of Athens

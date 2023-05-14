@@ -4,4 +4,4 @@ layout: default
 
 # Talks
 
-To be determined
+Coming soon!
