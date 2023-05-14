@@ -4,7 +4,7 @@ layout: default
 
 # Submission guidelines
 
-Papers must be submitted through CMT (link will be available soon).
+Papers must be submitted [through CMT]({{ site.workshop.submission_link }}).
 
 All submissions will go through a double-blind review process. Papers will be selected based on
 relevance, significance and novelty of results, technical merit, and clarity of presentation.

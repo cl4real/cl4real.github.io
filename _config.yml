@@ -7,6 +7,7 @@ workshop:
   name: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
   short: CL4REAL
   host: "ICIAP 2023<br>Udine, Italy<br>September 11-15, 2023"
+  submission_link: https://cmt3.research.microsoft.com/CL4REAL2023
   dates:
     submission: June 30, 2023
     decision: July 30, 2023
