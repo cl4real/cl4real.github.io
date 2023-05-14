@@ -18,7 +18,10 @@ layout: default
 
 # Program Committee
 
-To be determined.
+{% for person in site.workshop.pc %}
+* {{ person.name }} ({{person.affiliation }})
+{% endfor %}
+* ...more coming
 
 <!--<ul>
   <li>Pietro Buzzega (Covision Lab)</li>
