@@ -37,9 +37,13 @@ workshop:
   pc:
     - name: Simone Calderara
       affiliation: University of Modena and Reggio Emilia
+    - name: Quentin Jodelet
+      affiliation: Tokyo Institute of Technology
     - name: Umberto Michieli
       affiliation: Samsung Research
     - name: Concetto Spampinato
       affiliation: University of Catania
     - name: Konstantinos Tserpes
       affiliation: Harokopio University of Athens
+    - name: Pietro Zanuttigh
+      affiliation: University of Padova
