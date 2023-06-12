@@ -55,3 +55,8 @@ workshop:
       affiliation: Harokopio University of Athens
     - name: Pietro Zanuttigh
       affiliation: University of Padova
+  talks:
+    - name: Antonio Carta
+      affiliation: University of Pisa
+      pic: img/pic.jpg
+      title: TBD
